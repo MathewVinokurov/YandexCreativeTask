@@ -1,2 +1,2 @@
-# YandexCreativeTask
-Repository for making yandex lyceum Django creative task 
+# Как открыть сайт?
+Всё предельно просто! 
